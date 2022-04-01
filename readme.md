@@ -5,7 +5,7 @@
 
 <h3>:small_blue_diamond: Devs </h3>
 
-<a>André Campelo</a>
+<a>André Campelo - </a>
 
 David Pires - <a href="https://github.com/David-Pires" target="_blank">GitHub</a> | <a href="https://www.linkedin.com/in/david-pires-silva/" target="_blank">LinkedIn</a> 
 
