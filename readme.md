@@ -20,3 +20,21 @@ Flávia Moreira - <a href="https://www.linkedin.com/in/flaviamdsg/" target="_bla
 Kelly Oliveira - <a href="https://www.linkedin.com/in/kllyoliveira/" target="_blank">LinkedIn</a> 
 
 Sthefany R. Vargas - <a href="https://www.linkedin.com/in/sthefanyrodriguesvargas/" target="_blank">LinkedIn</a> 
+
+
+<h2>Avaliando Full Stack</h2>
+
+Para o time de desenvolvimento, precisamos que você se alinhe com sua Squad e compartilhe o Github do projeto com a gente. Lá iremos avaliar todos os seus commits e sua linha de raciocínio para desenvolver aquele código.
+
+> Itens que serão avaliados:
+
+Pense em tecnologias que a sua equipe esteja habituada, dessa forma o trabalho terá mais eficiência e a colaboração de todos.
+
+Visibilidade é chave, precisamos saber quem está trabalhando, colaborando e o que estão fazendo. Commit seu código várias vezes por dia, isso vai ajudar a ver exatamente o que você fez e seu modo de pensar.
+
+> O que devo entregar?
+
+Se o entregável for uma tela: deverá ser uma tela em HTML, CSS, JS...
+
+Se o entregável for um serviço: deverá vir com algum tipo de documentação (swagger, collection no postman)
+
