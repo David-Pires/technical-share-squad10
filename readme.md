@@ -34,7 +34,7 @@ Visibilidade é chave, precisamos saber quem está trabalhando, colaborando e o 
 
 > O que devo entregar?
 
-Se o entregável for uma tela: deverá ser uma tela em HTML, CSS, JS...
+<li>Se o entregável for uma tela: deverá ser uma tela em HTML, CSS, JS...</li>
 
 Se o entregável for um serviço: deverá vir com algum tipo de documentação (swagger, collection no postman)
 
