@@ -28,13 +28,14 @@ Para o time de desenvolvimento, precisamos que você se alinhe com sua Squad e c
 
 > Itens que serão avaliados:
 
-Pense em tecnologias que a sua equipe esteja habituada, dessa forma o trabalho terá mais eficiência e a colaboração de todos.
 
-Visibilidade é chave, precisamos saber quem está trabalhando, colaborando e o que estão fazendo. Commit seu código várias vezes por dia, isso vai ajudar a ver exatamente o que você fez e seu modo de pensar.
+<li>Pense em tecnologias que a sua equipe esteja habituada, dessa forma o trabalho terá mais eficiência e a colaboração de todos.</li>
+
+<li>Visibilidade é chave, precisamos saber quem está trabalhando, colaborando e o que estão fazendo. Commit seu código várias vezes por dia, isso vai ajudar a ver exatamente o que você fez e seu modo de pensar.</li>
 
 > O que devo entregar?
 
 <li>Se o entregável for uma tela: deverá ser uma tela em HTML, CSS, JS...</li>
 
-Se o entregável for um serviço: deverá vir com algum tipo de documentação (swagger, collection no postman)
+<li>Se o entregável for um serviço: deverá vir com algum tipo de documentação (swagger, collection no postman)</li>
 
