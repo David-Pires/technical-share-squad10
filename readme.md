@@ -26,16 +26,21 @@ Sthefany R. Vargas - <a href="https://www.linkedin.com/in/sthefanyrodriguesvarga
 
 Para o time de desenvolvimento, precisamos que você se alinhe com sua Squad e compartilhe o Github do projeto com a gente. Lá iremos avaliar todos os seus commits e sua linha de raciocínio para desenvolver aquele código.
 
+
 > Itens que serão avaliados:
 
-
+<ul> 
 <li>Pense em tecnologias que a sua equipe esteja habituada, dessa forma o trabalho terá mais eficiência e a colaboração de todos.</li>
 
-<li>Visibilidade é chave, precisamos saber quem está trabalhando, colaborando e o que estão fazendo. Commit seu código várias vezes por dia, isso vai ajudar a ver exatamente o que você fez e seu modo de pensar.</li>
+<li>Visibilidade é chave, precisamos saber quem está trabalhando, colaborando e o que estão fazendo. Commit seu código várias vezes por dia, isso vai ajudar a ver 
+ exatamente o que você fez e seu modo de pensar.</li>
+</ul>
+
 
 > O que devo entregar?
 
+<ul> 
 <li>Se o entregável for uma tela: deverá ser uma tela em HTML, CSS, JS...</li>
 
 <li>Se o entregável for um serviço: deverá vir com algum tipo de documentação (swagger, collection no postman)</li>
-
+</ul>
